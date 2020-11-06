@@ -2,12 +2,12 @@
 I don't know what to write here tho. 
 So here are some stats instead
 
-[![Amitoj's github stats](https://github-readme-stats.vercel.app/api?username=amitojsingh366&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Amitoj's github stats](https://github-readme-stats.vercel.app/api?username=amitojsingh366&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amitojsingh366&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amitojsingh366&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="start" src="https://github-readme-stats.vercel.app/api?username=amitojsingh366&show_icons=true&theme=midnight-purple" />
+  <img align="start" src="https://github-readme-stats.vercel.app/api?username=amitojsingh366&show_icons=true&theme=midnight-purple&hide=pr" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
