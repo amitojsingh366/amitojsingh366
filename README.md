@@ -1,11 +1,18 @@
-## My name is Amitoj
+# My name is Amitoj
 I like programming
 
-Some of the things i've worked on:
-
+### Some of the things i've worked on:
 - [Chat App](https://chat.amitoj.net)
   - Great UI *(Was my first experience with react, loved it!)*
   - Backend designed keeping privacy in mind *(A lot more security features will be added soon)*
+  - Totally free to use!
+- [Captcha API](https://api.captcha.amitoj.net)
+  - Free to use!
+  - Very customizable
+- [Discord Bots](https://bots.discord.amitoj.net/)
+  - Feature rich
+  - Music moderation and games
+  - Well documented
 
 ### Some stats:
 
