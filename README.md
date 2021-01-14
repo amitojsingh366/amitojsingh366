@@ -6,7 +6,7 @@ I like programming
   - Great UI *(Was my first experience with react, loved it!)*
   - Backend designed keeping privacy in mind *(A lot more security features will be added soon)*
   - Totally free to use!
-- [Captcha API](https://api.captcha.amitoj.net)
+- [Captcha API](http://api.captcha.amitoj.net)
   - Free to use!
   - Very customizable
 - [Discord Bots](https://bots.discord.amitoj.net/)
