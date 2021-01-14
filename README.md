@@ -1,6 +1,13 @@
-### Ok so this is a cool feature...
-I don't know what to write here tho. 
-So here are some stats instead
+## My name is Amitoj
+I like programming
+
+Some of the things i've worked on:
+
+- [Chat App](https://chat.amitoj.net)
+  - Great UI *(Was my first experience with react, loved it!)*
+  - Backend designed keeping privacy in mind *(A lot more security features will be added soon)*
+
+### Some stats:
 
 <!-- [![Amitoj's github stats](https://github-readme-stats.vercel.app/api?username=amitojsingh366&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
