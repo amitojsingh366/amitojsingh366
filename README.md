@@ -13,7 +13,10 @@ I like programming
   - Feature rich
   - Music moderation and games
   - Well documented
-
+- [Easy RPC](https://github.com/amitojsingh366/easy-rpc)
+  - Easy to use
+  - Great UI
+  - Packed with features like profile sharing, dock to system tray, auto-launch and more!
 ### Some stats:
 
 <!-- [![Amitoj's github stats](https://github-readme-stats.vercel.app/api?username=amitojsingh366&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
