@@ -24,6 +24,8 @@ I like programming
 
 <!-- [![Amitoj's github stats](https://github-readme-stats.vercel.app/api?username=amitojsingh366&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=amitojsingh366&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amitojsingh366&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
