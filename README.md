@@ -5,7 +5,7 @@ I like programming
 - [DogeHouse](https://dogehouse.tv)
   - Drop in audio chat
   - Fully websocket based!
-  - Totally free to use!
+  - Really great and big community
 - [Chat App](https://chat.amitoj.net)
   - Great UI *(Was my first experience with react, loved it!)*
   - Backend designed keeping privacy in mind *(A lot more security features will be added soon)*
