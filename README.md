@@ -22,7 +22,7 @@ I like programming
   - Great UI
   - Packed with features like profile sharing, dock to system tray, auto-launch and more!
 - [Flappytoj](https://github.com/amitojsingh366/Flappytoj)
-  - Compete with your friends using th in-game leaderboard!
+  - Compete with your friends using the in-game leaderboard!
   - Displays a Discord Rich Presence 
 ### Some stats:
 
