@@ -2,7 +2,7 @@
 I like programming
 
 ### Some of the things i've worked on:
-- [DogeHouse](https://dogehouse.tv)
+- [DogeHouse](https://github.com/benawad/dogehouse)
   - Drop in audio chat
   - Fully websocket based!
   - Really great and big community
