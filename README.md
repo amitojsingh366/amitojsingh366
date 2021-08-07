@@ -31,10 +31,10 @@ I like programming
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amitojsingh366&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="start" src="https://github-readme-stats.vercel.app/api?username=amitojsingh366&show_icons=true&theme=one_dark&line_height=24&hide=stars&bg_color=0d1117&hide_border=true" />
+  <img align="start" src="https://github-readme-stats.vercel.app/api?username=amitojsingh366&show_icons=true&theme=one_dark&line_height=24&hide=stars&hide_border=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="end" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitojsingh366&layout=compact&theme=one_dark&bg_color=0d1117&hide_border=true" />
+  <img align="end" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitojsingh366&layout=compact&theme=one_dark&hide_border=true" />
 </a>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=amitojsingh366&theme=onedark&margin-w=13&margin-h=15&column=7&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
