@@ -31,13 +31,13 @@ I like programming
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amitojsingh366&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="start" src="https://github-readme-stats.vercel.app/api?username=amitojsingh366&show_icons=true&theme=onedark&line_height=24&hide=stars&hide_border=true" />
+  <img align="start" src="https://github-readme-stats.vercel.app/api?username=amitojsingh366&show_icons=true&theme=dracula&line_height=24&hide=stars&hide_border=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="end" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitojsingh366&layout=compact&theme=onedark&hide_border=true" />
+  <img align="end" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitojsingh366&layout=compact&theme=dracula&hide_border=true" />
 </a>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=amitojsingh366&theme=onedark&margin-w=13&margin-h=15&column=7&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=amitojsingh366&theme=dracula&margin-w=13&margin-h=15&column=7&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **amitojsingh366/amitojsingh366** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
