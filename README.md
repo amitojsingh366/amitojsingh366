@@ -1,6 +1,7 @@
 # My name is Amitoj
-I like programming
-
+I like programming  
+  
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q07BEFB)
 ### Some of the things i've worked on:
 - [DogeHouse](https://github.com/benawad/dogehouse)
   - Drop in audio chat
