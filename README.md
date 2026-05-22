@@ -1,36 +1,42 @@
-# My name is Amitoj
-I like programming  
-  
+# Hi there 👋, I'm Amitoj Singh Chopra
+
+I'm currently pursuing a B.Sc. in Computer Science with a passion for building robust full-stack applications, distributed systems, and automation tools. 
+
+[![Website](https://img.shields.io/badge/Website-amitoj.net-blue?style=flat&logo=google-chrome)](https://amitoj.net)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-amitojsingh366-blue?style=flat&logo=linkedin)](https://linkedin.com/in/amitojsingh366)
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/amitoj)
-### Some of the things i've worked on:
-- [DogeHouse](https://github.com/benawad/dogehouse)
-  - Drop in audio chat
-  - Fully websocket based!
-  - Really great and big community
-- [Chat App](https://chat.amitoj.net)
-  - Great UI *(Was my first experience with react, loved it!)*
-  - Backend designed keeping privacy in mind *(A lot more security features will be added soon)*
-  - Totally free to use!
-- [Captcha API](http://api.captcha.amitoj.net)
-  - Free to use!
-  - Very customizable
-- [Discord Bots](https://bots.discord.amitoj.net/)
-  - Feature rich
-  - Music moderation and games
-  - Well documented
-- [Easy RPC](https://github.com/amitojsingh366/easy-rpc)
-  - Easy to use
-  - Great UI
-  - Packed with features like profile sharing, dock to system tray, auto-launch and more!
-- [Flappytoj](https://github.com/amitojsingh366/Flappytoj)
-  - Compete with your friends using the in-game leaderboard!
-  - Displays a Discord Rich Presence 
-### Some stats:
 
-<!-- [![Amitoj's github stats](https://github-readme-stats.vercel.app/api?username=amitojsingh366&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+## 🛠️ Technical Arsenal
+- **Languages:** TypeScript, JavaScript, C++, C#, Rust, Lisp, Java, Kotlin, Swift, Python, HTML/CSS, SQL, Bash
+- **Frameworks:** React.js, Next.js, Vue.js, Node.js, Remix, Express, Flask, Electron, Unity, Jest, Cypress, Selenium, Junit
+- **Tools & Databases:** PostgreSQL, OracleSQL, MySQL, Docker, AWS, OCI, Git, CI/CD, Caddy, Cloudflare, Postman
+- **Libraries:** Anthropic API, TA-Lib, Web3 Libraries, Boost, Crow, Spring, discord.js, Puppeteer, TailwindCSS, log4j
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amitojsingh366&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats) -->
-<p style="display: inline-flex;">
+## 🚀 Featured Projects
+- **[Signalhouse](https://github.com/amitojsingh366/signalhouse)**  
+  A fully dockerized swing trading orchestration platform scanning ~333 symbols. Built with Next.js 14, Bun, FastAPI, SwiftUI, and PostgreSQL. Features TA-Lib technical analysis and Claude Sonnet vision-based parsing.
+- **[Hidden Frame](https://github.com/csci265-team/HiddenFrame)**  
+  A full-stack steganography tool featuring a high-performance C++ backend for image processing, served via a Crow API and Remix.js UI.
+- **[BunnyTube](https://github.com/amitojsingh366/BunnyTube)**  
+  A fully dockerized, collaborative "watch together" platform with video uploads and synchronized playback. The backend leverages isomorphic-ws, JWT authentication, and Prisma with PostgreSQL.
+- **[nextwind](https://github.com/amitojsingh366/nextwind)**  
+  A template repo built in the pre-AI era to rapidly bootstrap and scaffold Next.js projects with Tailwind CSS pre-configured.
+- **[Easy RPC](https://github.com/amitojsingh366/easy-rpc)**  
+  A feature-packed Discord Rich Presence client with an easy-to-use UI, profile sharing, and system tray docking.
+- **[Flappytoj](https://github.com/amitojsingh366/Flappytoj)**  
+  Compete with friends using an in-game leaderboard and Discord Rich Presence.
+
+## 🤝 Major Open-Source Contributions
+- **Discord Ecosystem** *(Open-Source Contributor)*  
+  Contributed to the core Discord developer ecosystem. Landed PRs in major repositories including [discord.js (#7200)](https://github.com/discordjs/discord.js/pull/7200), [discord-api-docs (#4253)](https://github.com/discord/discord-api-docs/pull/4253), and [discord-api-types (#272)](https://github.com/discordjs/discord-api-types/pull/272).
+- **[KeepKey Desktop](https://github.com/keepkey/keepkey-desktop)** *(Software Engineer)*  
+  Contributed heavily (110K+ LOC) to the crypto hardware-wallet desktop app. Implemented REST API bridges, web3 integrations, and cross-platform packaging.
+- **[DogeHouse](https://github.com/benawad/dogehouse)** *(Open-Source Collaborator)*  
+  Contributed 120K+ LOC to a real-time social audio platform. Optimized WebSocket flows and standardized code patterns across React and Elixir.
+
+## 📈 GitHub Stats
+
+<!-- <p style="display: inline-flex; gap: 10px; flex-wrap: wrap;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="start" src="https://github-readme-stats.vercel.app/api?username=amitojsingh366&show_icons=true&theme=dracula&line_height=24&hide=stars&hide_border=true&card_width=450" />
   </a>
@@ -39,21 +45,6 @@ I like programming
   </a>
 </p>
 
-
+<br /> -->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=amitojsingh366&theme=dracula&margin-w=13&margin-h=15&column=7&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-
-<!--
-**amitojsingh366/amitojsingh366** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
